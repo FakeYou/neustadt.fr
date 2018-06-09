@@ -7,3 +7,5 @@ ehthumbs.db
 Thumbs.db
 /public
 deploy.sh
+node_modules/
+.vscode/
